@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Overview
 
 Efficient waste management is critical for urban areas to improve hygiene, reduce operational costs, and optimize resource utilization. Traditional fixed-schedule waste collection does not react to real bin conditions, leading to overflowing bins in some zones and unnecessary emptying elsewhere.
 
