@@ -1,0 +1,7 @@
+POWER MANAGEMENT & BATTERY PLAN
+
+- Deep sleep mode active 90% of the time
+- Wake cycle: every 30-60 minutes
+- Sensor + ADC reading duration: < 2 seconds
+- LoRaWAN Class-A transmission for minimum airtime
+- Estimated battery life: 3 to 5 years
