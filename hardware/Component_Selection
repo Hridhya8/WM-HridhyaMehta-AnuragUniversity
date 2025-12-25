@@ -1,0 +1,17 @@
+COMPONENT SELECTION - ENGINEERING JUSTIFICATION
+
+VL53L1X ToF Sensor:
+- Accurate depth measurement (unlike ultrasonic in trash environment)
+- Works in dust, humidity, and irregular waste surfaces
+
+STM32WL MCU:
+- Integrated LoRaWAN radio → removes external module cost
+- Low power sleep current → multi-year battery life
+
+Li-SOCl₂ Battery (3.6V):
+- Industrial grade, used in utility metering
+- 3-5 year lifetime with deep sleep duty cycle
+
+IP65 Enclosure:
+- Protects electronics against dust/rain
+- Acrylic window protects ToF optical path
