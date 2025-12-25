@@ -84,7 +84,7 @@ Edge nodes are designed for ultra-low power operation:
 - Battery monitoring via ADC
 - LoRaWAN Class-A uplinks only
 
-Expected battery life with a 3.6V Li-SOCl₂ cell: **3–5 years**
+
 
 ---
 
@@ -131,30 +131,7 @@ Recommended gateway count:
 - Gateway shared across 500–1000 bins
 
 ---
-## 📂 Repository Structure
-WM-HridhyaMehta-AnuragUniversity/
-│
-├── Document/
-│   └── Smart_Waste_Bin_Design.doc
-│
-├── Software/
-│   └── Codes/
-│       ├── firmware_main.c
-│       ├── route_optimization.c
-│       └── cloud_handler.c
-│
-├── Hardware/
-│   ├── Hardware_Block_Diagram.png
-│   ├── Component_Selection.png
-│   └── Power_Design.png
-│
-├── Block_Diagram/
-│   ├── System_Architecture.png
-│   ├── Data_Flow.png
-│   ├── Route_Optimization.png
-│   └── Power_Management.png
-│
-└── README.md
+
 
 
 
