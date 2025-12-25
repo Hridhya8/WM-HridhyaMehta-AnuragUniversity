@@ -135,28 +135,27 @@ Recommended gateway count:
 WM-HridhyaMehta-AnuragUniversity/
 │
 ├── Document/
-│ └── Smart_Waste_Bin_Design.doc
+│   └── Smart_Waste_Bin_Design.doc
 │
 ├── Software/
-│ ├── Codes/
-│ │ ├── firmware_main.c
-│ │ ├── route_optimization.c
-│ │ └── cloud_handler.c
-│
+│   └── Codes/
+│       ├── firmware_main.c
+│       ├── route_optimization.c
+│       └── cloud_handler.c
 │
 ├── Hardware/
-│ ├── Hardware_Block_Diagram.png
-│ ├── Component_Selection.png
-│ ├── Power_Design.png
-│ 
+│   ├── Hardware_Block_Diagram.png
+│   ├── Component_Selection.png
+│   └── Power_Design.png
 │
 ├── Block_Diagram/
-│ ├── System_Architecture.png
-│ ├── Data_Flow.png
-│ ├── Route_Optimization.png
-│ └── Power_Management.png
+│   ├── System_Architecture.png
+│   ├── Data_Flow.png
+│   ├── Route_Optimization.png
+│   └── Power_Management.png
 │
 └── README.md
+
 
 
 
